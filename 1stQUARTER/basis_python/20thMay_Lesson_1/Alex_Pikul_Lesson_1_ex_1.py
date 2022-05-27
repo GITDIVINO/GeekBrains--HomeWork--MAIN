@@ -45,5 +45,3 @@ duration_lst = [random.randint(1, 500000) for i in range(20)]
 # проходим по списку значений с помощью цикла fot, вызывая функцию
 for duration in duration_lst:
     print(f'Переводим {duration} сек: {make_better_view(duration)}')
-
-# add some changes for commit
