@@ -54,7 +54,7 @@ def make_list_7(some_list, plus):
 print(f'\nСписок чисел из списка выше (+17 к каждому элементу), сумма цифр которых делится нацело на 7: \n{make_list_7(numbers_list, 17)}')
 
 
-
+# add some changes for commit
 
 
 

@@ -46,3 +46,4 @@ duration_lst = [random.randint(1, 500000) for i in range(20)]
 for duration in duration_lst:
     print(f'Переводим {duration} сек: {make_better_view(duration)}')
 
+# add some changes for commit
