@@ -11,9 +11,36 @@
 Главное: дополнить числа до двух разрядов нулём!"""
 
 # список, котрый нужно обработать
-some_list = ['в', '5', 'часов', '17', 'минут', 'температура', 'воздуха', 'была', '+5', 'градусов']
+some_lst = ['в', '5', 'часов', '17', 'минут', 'температура', 'воздуха', 'была', '+5', 'градусов']
 
-# Должны получить на выходе строку: в "05" часов "17" минут температура воздуха была "+05" градусов
+
+def make_view(lst):
+    """ Должны получить на выходе строку: в "05" часов "17" минут температура воздуха была "+05" градусов"""
+    result_lst = []
+
+    for element in lst:
+        if element.startswith('+'):
+            if int(element[1:]) // 10 == 0:
+                element = f'+0{element[1:]}'
+            result_lst.append('"' + element + '"')
+
+        elif not element.isdigit():
+            result_lst.append(element)
+
+        else:
+            if int(element) // 10 == 0:
+                element = '0' + element
+            result_lst.append('"' + element + '"')
+
+    return ' '.join(result_lst)
+
+
+print(make_view(some_lst))
+
+some_lst_2 = ['в', '15', 'часов', '7', 'минут', 'температура', 'воздуха', 'была', '+25', 'градусов']
+print(make_view(some_lst_2))
+
+
 
 
 
