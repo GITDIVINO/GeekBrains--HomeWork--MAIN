@@ -6,6 +6,7 @@
 15 ** 2
 """
 
+# для удобства вывода можно занести данные в словарь
 expressions = {
     '15 * 3': 15 * 3,
     '13 / 2': 13 / 2,
@@ -15,3 +16,5 @@ expressions = {
 
 for key in expressions:
     print(f'Тип результа выражения {key}: {type(expressions[key])}')
+
+
