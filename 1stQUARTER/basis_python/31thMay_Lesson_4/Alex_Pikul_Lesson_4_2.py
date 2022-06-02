@@ -33,6 +33,11 @@ def currency_rates(any_money_name):
     return f'{money_name_lst[index]} равен {float(value_lst[index])/float(nominal_lst[index])} рублей'
 
 
-# Принимаем код валюты от пользователя
-chse = ((input(f'Список валют:\n{money_code_lst}\nЧто бы получить курс, введите код валюты из списка выше: ')).upper())
-print(currency_rates(chse))
+if __name__ == '__main__':
+
+    # Принимаем код валюты от пользователя
+    chse = ((input(f'Список валют:\n{money_code_lst}\nЧто бы получить курс, введите код валюты из списка выше: ')).upper())
+    print(currency_rates(chse))
+
+
+
