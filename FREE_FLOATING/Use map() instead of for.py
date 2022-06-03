@@ -11,8 +11,3 @@ print(f'Square of values: {sqre_numbers}')
 # use map()
 m_sqre_numbers = list(map(lambda number: number ** 2, numbers))
 print(f'Square of values by map(lambda): {m_sqre_numbers}')
-
-
-
-
-
