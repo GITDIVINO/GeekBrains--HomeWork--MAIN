@@ -14,7 +14,7 @@ odd_to_15 = odd_nums(15)
 
 
 def odd_to_n(start, end):
-    for num in range(start, end + 1):
+    for num in range(start, end + 1, 2):
         yield num
 
 
