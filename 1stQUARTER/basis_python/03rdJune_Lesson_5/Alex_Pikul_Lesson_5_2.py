@@ -3,6 +3,12 @@
 """
 
 
+def num_gen(start, end):
+    gen_numbers = (num for num in range(start, end + 1, 2))
+    return gen_numbers
+
+
+print(*num_gen(1, 15))
 
 
 
