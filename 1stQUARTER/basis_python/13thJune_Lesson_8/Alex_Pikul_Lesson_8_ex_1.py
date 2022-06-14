@@ -17,11 +17,31 @@ ValueError: wrong email: someone@geekbrainsru
 
 import re
 
+#   перед прочтением методички :)
+# def email_parse(any_email_address):
+#     result_dict = {}
+#     try:
+#         if re.search('@', any_email_address) and re.search('\.ru', any_email_address):
+#             result = re.split(r'@', any_email_address)
+#             result_dict['username'] = result[0]
+#             result_dict['domain'] = result[1]
+#         else:
+#             raise ValueError
+#
+#     except ValueError:
+#         return print(f'wrong email: {any_email_address}')
+#
+#     return result_dict
 
-def email_parse(any_email_address):
+#   после прочтения методички
+VALID_EMAIL = re.compile(r'^\w*@\w*\.(com|ru|bk)$')
+
+
+def email_parse_2(any_email_address):
     result_dict = {}
+
     try:
-        if re.search('@', any_email_address) and re.search('\.ru', any_email_address):
+        if VALID_EMAIL.match(any_email_address):
             result = re.split(r'@', any_email_address)
             result_dict['username'] = result[0]
             result_dict['domain'] = result[1]
@@ -29,10 +49,13 @@ def email_parse(any_email_address):
             raise ValueError
 
     except ValueError:
-        return print(f'wrong email: {any_email_address}')
+        return print(f'ValueError: wrong email: {any_email_address}')
 
     return result_dict
 
 
 if __name__ == '__main__':
-    print(email_parse(input('Please enter email: ')))
+    # print(email_parse(input('Please enter email: ')))
+    print(email_parse_2(input('Please enter email: ')))
+
+
