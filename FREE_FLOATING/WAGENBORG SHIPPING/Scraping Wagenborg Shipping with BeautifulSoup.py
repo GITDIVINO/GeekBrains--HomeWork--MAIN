@@ -19,4 +19,3 @@ data_lst = [data_text.text for data_text in soup.find_all('td', class_='table-ro
 # combine two lists
 for data in dict(zip(label_lst, data_lst)).items():
     print(data)
-
