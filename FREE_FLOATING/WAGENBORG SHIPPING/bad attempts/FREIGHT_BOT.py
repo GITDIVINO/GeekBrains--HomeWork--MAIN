@@ -7,7 +7,7 @@ bot = telebot.TeleBot('5485308566:AAEIeTY0SqaR5XKo70zY6QMcEBJixDmG74Q')
 # /start
 @bot.message_handler(commands=["start"])
 def start(m, res=False):
-    bot.send_message(m.chat.id, 'Let`s calculate voyage with Wagenborg Shipping\nPlease enter name of the vessel')
+    bot.send_message(m.chat.id, 'Let`s calculate voyage with Wagenborg Shipping. Please enter name of the vessel')
 
 
 # Handle message
