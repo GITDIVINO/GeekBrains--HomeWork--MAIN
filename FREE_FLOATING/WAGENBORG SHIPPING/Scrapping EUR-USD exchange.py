@@ -45,7 +45,7 @@ if __name__ == '__main__':
     print(scrap_rate_of_exchange())
     # print(scrap_rate_of_exchange('22.06.2022')) # 1.0521 - ok
     # print(scrap_rate_of_exchange('01.06.2022')) # 1.0712 - ok
-    # print(scrap_rate_of_exchange('11.05.2022')) # 1.0553 - ok (предыдущий месяц)
-    # print(scrap_rate_of_exchange('14.04.2022')) # 1.0878 - ok (2 месяца назад)
-    # print(scrap_rate_of_exchange('09.03.2022')) # 1.0993 - ok (3 месяца назад)
-    # print(scrap_rate_of_exchange('25.06.2022')) # - (если выходной или нет ещё данных)
+    # print(scrap_rate_of_exchange('11.05.2022')) # 1.0553 - ok (next month)
+    # print(scrap_rate_of_exchange('14.04.2022')) # 1.0878 - ok (2 month ago)
+    # print(scrap_rate_of_exchange('09.03.2022')) # 1.0993 - ok (3 month ago)
+    # print(scrap_rate_of_exchange('25.06.2022')) # - (in case of weekend or no info)
