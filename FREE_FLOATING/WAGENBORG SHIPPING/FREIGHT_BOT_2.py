@@ -45,16 +45,16 @@ async def command_start(message: types.Message):
 @dp.message_handler(commands=vessels_lst, state=FSMAdmin.VESSEL_NAME)
 async def command_start(message: types.Message, state: FSMContext):
 
-   ''' async with state.proxy() as data:
-        data[vessels_lst] = message.
+    """ async with state.proxy() as data:
+         data[vessels_lst] = message.
 
-    with open(r'C:\Users\User\Desktop\GeekBrains\GeekBrains__HomeWork__MAIN\FREE_FLOATING\WAGENBORG '
-              r'SHIPPING\vessels\data.json', 'r', encoding='utf-8') as f:
-        data = json.load(f) '''
+     with open(r'C:\Users\User\Desktop\GeekBrains\GeekBrains__HomeWork__MAIN\FREE_FLOATING\WAGENBORG '
+               r'SHIPPING\vessels\data.json', 'r', encoding='utf-8') as f:
+         data = json.load(f) """
 
     await FSMAdmin.next()
     await message.reply('Please advise date of BL')
-        
+
 
 
 
