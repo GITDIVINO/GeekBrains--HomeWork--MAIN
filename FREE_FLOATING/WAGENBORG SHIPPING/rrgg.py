@@ -1,8 +1,9 @@
+import time
+import datetime as DT
 
-with open(r'C:\Users\User\Desktop\GeekBrains\GeekBrains__HomeWork__MAIN\FREE_FLOATING\WAGENBORG '
-          r'SHIPPING\vessels\data.json') as f:
-    f.readline()
+date_of_bl = '2022-06-01'
 
-
-
-
+date = DT.datetime.strptime(date_of_bl, '%Y-%m-%d').date()
+print(date, type(date))
+date -= DT.timedelta(days=1)
+print(date, type(date), str(date))
