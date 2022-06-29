@@ -34,7 +34,7 @@ class FSMAdmin(StatesGroup):
     RATE_OF_EXCHANGE = State()
 
 
-# WAGENBORG SHIPPING
+# WAGENBORG SHIPPING button
 @dp.message_handler(commands='WAGENBORG', state=None)
 async def command_start(message: types.Message):
     await FSMAdmin.VESSEL_NAME.set()
