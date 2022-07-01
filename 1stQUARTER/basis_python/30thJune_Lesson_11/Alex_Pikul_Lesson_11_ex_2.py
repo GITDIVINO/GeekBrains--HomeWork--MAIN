@@ -6,20 +6,27 @@
 
 
 class Myown_ZeroDivisionError(Exception):
-    def __init__(self, first_num, second_num):
-        self.first_num = first_num
-        self.second_num = second_num
+    """Exception prevent attempts destroy the math -> universe"""
+    def __init__(self, text):
+        self.text = text
+
+
+def divide_nums(first_num=0, second_num=0):
+    while True:
+        print('|-----Let`s divide two numbers!-----|')
+        first_num = int(input('Please enter first number: '))
+        second_num = int(input('Please enter second number: '))
+        if second_num == 0:
+            raise Myown_ZeroDivisionError('ERROR: It`s danger to divide by zero. Try again :)')
+        else:
+            print(f'Result: {first_num/second_num}  <|>---Division is successful---<|>')
 
 
 if __name__ == '__main__':
-    first_num = int(input('Please enter first number: '))
-    second_num = int(input('Please enter second number: '))
 
     try:
-        print(first_num / second_num)
-        if second_num == 0:
-            raise Myown_ZeroDivisionError('Myown_ZeroDivisionError: division by zero')
+        divide_nums()
     except Myown_ZeroDivisionError as err:
         print(err)
-    else:
-        print(f'All is ok. {first_num} / {second_num} = {first_num/second_num}')
+
+    print('\n[---> Some code to prove exception is working <---]')
