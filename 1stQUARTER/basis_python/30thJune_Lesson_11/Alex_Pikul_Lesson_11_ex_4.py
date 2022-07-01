@@ -33,7 +33,7 @@ class Printer(Device):
         self.color = color
 
     def print_text(self, text):
-        print(f'The printer with serial number "{self.serial_number}" printed {text}')
+        print(f'The {self.color} printer with serial number "{self.serial_number}" printed: "{text}"')
 
 
 class Fridge(Device):
