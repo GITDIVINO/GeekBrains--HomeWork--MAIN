@@ -3,7 +3,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import json
 from vessels.make_vsl_list import vessels_lst
-from keyboards.user_kb import kb_user
+from keyboards.user_kb import kb_user, kb_vessels
 from aiogram.types import ReplyKeyboardRemove
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
 from aiogram.dispatcher import FSMContext
@@ -18,7 +18,7 @@ dp = Dispatcher(bot, storage=storage)
 # greetings
 @dp.message_handler(commands=['start', 'help'])
 async def command_start(massage: types.Message):
-    await bot.send_message(massage.from_user.id, 'The FREIGHT_BOT will help you to calculate voyage, bunker '
+    await bot.send_message(massage.from_user.id, 'The FREIGHT_BOT will help you to calculate freight, bunker '
                                                  'consumption and intake', reply_markup=kb_user)
 
 
@@ -38,32 +38,22 @@ class FSMAdmin(StatesGroup):
 @dp.message_handler(commands='WAGENBORG', state=None)
 async def command_start(message: types.Message):
     await FSMAdmin.VESSEL_NAME.set()
-    await message.reply('What vessel performed the shipment?')
+    await message.reply('What vessel performed the shipment?', reply_markup=kb_vessels)
 
 
 # take info from vessel`s description
-@dp.message_handler(commands=vessels_lst, state=FSMAdmin.VESSEL_NAME)
-async def command_start(message: types.Message, state: FSMContext):
-
-    """ async with state.proxy() as data:
-         data[vessels_lst] = message.
-
-     with open(r'C:\Users\User\Desktop\GeekBrains\GeekBrains__HomeWork__MAIN\FREE_FLOATING\WAGENBORG '
-               r'SHIPPING\vessels\data.json', 'r', encoding='utf-8') as f:
-         data = json.load(f) """
+@dp.message_handler(content_types=vessels_lst, state=FSMAdmin.VESSEL_NAME)
+async def load_vsl_name(message: types.Message, state: FSMContext):
+    async with state.proxy() as data:
+        data[vessels_lst] = message.VESSEL_NAME[0].file_id
 
     await FSMAdmin.next()
     await message.reply('Please advise date of BL')
 
-
-
-
-
-        # VESSEL_CONSUMPTION = data[message.text[1:]]['consumption']
-        # VESSEL_SPEED = data[message.text[1:]]['speed']
-        # VESSEL_CAPACITY = data[message.text[1:]]['consumption']
+    # VESSEL_CONSUMPTION = data[message.text[1:]]['consumption']
+    # VESSEL_SPEED = data[message.text[1:]]['speed']
+    # VESSEL_CAPACITY = data[message.text[1:]]['consumption']
     # await bot.send_message(message.from_user.id, data[message.text[1:]], reply_markup=ReplyKeyboardRemove())
-
 
 
 # def bunker_compensation_calc():

@@ -207,3 +207,6 @@ for vessel in vessels:
 with open('data.json', 'w', encoding='utf-8') as outfile:
     json.dump(vessels, outfile)
 
+with open(r'C:\Users\User\Desktop\GeekBrains\GeekBrains__HomeWork__MAIN\FREE_FLOATING\WAGENBORG '
+          'SHIPPING\keyboards\data.json', 'w', encoding='utf-8') as outfile:
+    json.dump(vessels, outfile)
