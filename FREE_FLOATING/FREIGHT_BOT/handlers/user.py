@@ -2,13 +2,14 @@ from aiogram import types, Dispatcher
 from datetime import datetime
 import json
 from create_bot import dp, write_logs
+from keyboards import kb_user
 
 
 # greetings
 # @dp.message_handler(commands=['start', 'help'])
 async def greetings(message: types.Message):
     await message.answer('The FREIGHT_BOT will help you to calculate freight, bunker consumption and intake.\n/help - '
-                         'to get instruction\n/vessels_list - to get name of all vessels')
+                         'to get instruction\n/vessels_list - to get name of all vessels', reply_markup=kb_user)
     write_logs(f'\n{datetime.now()} -- USER ID: {message.from_user.id} -- COMMAND "{message.text}" REQUESTED')
 
 
