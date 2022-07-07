@@ -1,0 +1,136 @@
+# print name of OS (uname):
+
+Linux
+_________________________________________________________
+
+# print name of OS with details (uname -a):
+
+Linux vmi851772.contaboserver.net 5.4.0-105-generic #119-Ubuntu SMP Mon Mar 7 18:49:24 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+
+______________________________________________________________
+
+# request host name (hostnamectl):
+
+Static hostname: vmi851772.contaboserver.net
+         Icon name: computer-vm
+           Chassis: vm
+        Machine ID: 0b5a8c60f03023ae22c878a862568dc2
+           Boot ID: 51628a812e344627a9f994b00f140743
+    Virtualization: kvm
+  Operating System: Ubuntu 20.04.4 LTS
+            Kernel: Linux 5.4.0-105-generic
+      Architecture: x86-64
+
+________________________________________________________________
+
+# distribution info (lsb_release -a):
+
+No LSB modules are available.
+Distributor ID: Ubuntu
+Description:    Ubuntu 20.04.4 LTS
+Release:        20.04
+Codename:       focal
+
+_________________________________________________________________
+
+# update list of reposiories (sudo apt update):
+
+Hit:1 http://asi-fs-n.contabo.net/ubuntu focal InRelease
+Get:2 http://asi-fs-n.contabo.net/ubuntu focal-updates InRelease [114 kB]
+Get:3 http://asi-fs-n.contabo.net/ubuntu focal-backports InRelease [108 kB]
+Get:4 http://security.ubuntu.com/ubuntu focal-security InRelease [114 kB]
+Hit:5 https://deb.nodesource.com/node_16.x focal InRelease
+Get:6 https://download.docker.com/linux/ubuntu focal InRelease [57.7 kB]
+Hit:7 https://dl.yarnpkg.com/debian stable InRelease
+Get:8 http://asi-fs-n.contabo.net/ubuntu focal-updates/main i386 Packages [688 kB]
+Get:9 http://asi-fs-n.contabo.net/ubuntu focal-updates/main amd64 Packages [1,947 kB]
+Get:10 http://asi-fs-n.contabo.net/ubuntu focal-updates/main Translation-en [353 kB]
+Get:11 http://asi-fs-n.contabo.net/ubuntu focal-updates/main amd64 c-n-f Metadata [15.6 kB]
+Get:12 http://asi-fs-n.contabo.net/ubuntu focal-updates/restricted amd64 Packages [1,141 kB]
+Get:13 http://asi-fs-n.contabo.net/ubuntu focal-updates/restricted i386 Packages [26.6 kB]
+Get:14 http://asi-fs-n.contabo.net/ubuntu focal-updates/restricted Translation-en [162 kB]
+Get:15 http://asi-fs-n.contabo.net/ubuntu focal-updates/restricted amd64 c-n-f Metadata [592 B]
+Get:16 http://asi-fs-n.contabo.net/ubuntu focal-updates/universe i386 Packages [676 kB]
+Get:17 http://asi-fs-n.contabo.net/ubuntu focal-updates/universe amd64 Packages [923 kB]
+Get:18 http://asi-fs-n.contabo.net/ubuntu focal-updates/universe Translation-en [207 kB]
+Get:19 http://asi-fs-n.contabo.net/ubuntu focal-updates/universe amd64 c-n-f Metadata [20.9 kB]
+Get:20 http://asi-fs-n.contabo.net/ubuntu focal-updates/multiverse amd64 Packages [24.5 kB]
+Get:21 http://asi-fs-n.contabo.net/ubuntu focal-updates/multiverse i386 Packages [8,468 B]
+Get:22 http://asi-fs-n.contabo.net/ubuntu focal-updates/multiverse amd64 c-n-f Metadata [592 B]
+Get:23 http://asi-fs-n.contabo.net/ubuntu focal-backports/main i386 Packages [35.2 kB]
+Get:24 http://asi-fs-n.contabo.net/ubuntu focal-backports/main amd64 Packages [44.8 kB]
+Get:25 http://asi-fs-n.contabo.net/ubuntu focal-backports/main Translation-en [11.3 kB]
+Get:26 http://asi-fs-n.contabo.net/ubuntu focal-backports/main amd64 c-n-f Metadata [976 B]
+Get:27 http://asi-fs-n.contabo.net/ubuntu focal-backports/universe amd64 Packages [23.7 kB]
+Get:28 http://asi-fs-n.contabo.net/ubuntu focal-backports/universe i386 Packages [13.2 kB]
+Get:29 http://asi-fs-n.contabo.net/ubuntu focal-backports/universe amd64 c-n-f Metadata [860 B]
+Get:30 http://security.ubuntu.com/ubuntu focal-security/main amd64 Packages [1,592 kB]
+Get:31 http://security.ubuntu.com/ubuntu focal-security/main i386 Packages [464 kB]
+Get:32 http://security.ubuntu.com/ubuntu focal-security/main Translation-en [271 kB]
+Get:33 http://security.ubuntu.com/ubuntu focal-security/main amd64 c-n-f Metadata [10.7 kB]
+Get:34 http://security.ubuntu.com/ubuntu focal-security/restricted i386 Packages [25.3 kB]
+Get:35 http://security.ubuntu.com/ubuntu focal-security/restricted amd64 Packages [1,051 kB]
+Get:36 http://security.ubuntu.com/ubuntu focal-security/restricted Translation-en [149 kB]
+Get:37 http://security.ubuntu.com/ubuntu focal-security/restricted amd64 c-n-f Metadata [572 B]
+Get:38 http://security.ubuntu.com/ubuntu focal-security/universe amd64 Packages [710 kB]
+Get:39 http://security.ubuntu.com/ubuntu focal-security/universe i386 Packages [555 kB]
+Get:40 http://security.ubuntu.com/ubuntu focal-security/universe Translation-en [128 kB]
+Get:41 http://security.ubuntu.com/ubuntu focal-security/universe amd64 c-n-f Metadata [14.6 kB]
+Get:42 http://security.ubuntu.com/ubuntu focal-security/multiverse amd64 Packages [22.2 kB]
+Get:43 http://security.ubuntu.com/ubuntu focal-security/multiverse amd64 c-n-f Metadata [512 B]
+Fetched 11.7 MB in 3s (3,931 kB/s)
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+29 packages can be upgraded. Run 'apt list --upgradable' to see them.
+
+_____________________________________________________________________________
+
+# instulaling mc (sudo apt install mc):
+
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  bridge-utils dns-root-data dnsmasq-base libidn11 linux-headers-5.4.0-107 linux-headers-5.4.0-107-generic
+  linux-headers-5.4.0-62 linux-headers-5.4.0-62-generic linux-image-5.4.0-107-generic
+  linux-image-5.4.0-62-generic linux-modules-5.4.0-107-generic linux-modules-5.4.0-62-generic
+  linux-modules-extra-5.4.0-107-generic linux-modules-extra-5.4.0-62-generic ubuntu-fan
+Use 'sudo apt autoremove' to remove them.
+The following additional packages will be installed:
+  libssh2-1 mc-data
+Suggested packages:
+  arj catdvi | texlive-binaries dbview djvulibre-bin epub-utils genisoimage gv imagemagick libaspell-dev links
+  | w3m | lynx odt2txt poppler-utils python python-boto python-tz xpdf | pdf-viewer zip
+The following NEW packages will be installed:
+  libssh2-1 mc mc-data
+0 upgraded, 3 newly installed, 0 to remove and 29 not upgraded.
+Need to get 1,817 kB of archives.
+After this operation, 7,994 kB of additional disk space will be used.
+Do you want to continue? [Y/n] y
+Get:1 http://asi-fs-n.contabo.net/ubuntu focal/universe amd64 libssh2-1 amd64 1.8.0-2.1build1 [75.4 kB]
+Get:2 http://asi-fs-n.contabo.net/ubuntu focal/universe amd64 mc-data all 3:4.8.24-2ubuntu1 [1,265 kB]
+Get:3 http://asi-fs-n.contabo.net/ubuntu focal/universe amd64 mc amd64 3:4.8.24-2ubuntu1 [477 kB]
+Fetched 1,817 kB in 0s (33.0 MB/s)
+Selecting previously unselected package libssh2-1:amd64.
+(Reading database ... 191172 files and directories currently installed.)
+Preparing to unpack .../libssh2-1_1.8.0-2.1build1_amd64.deb ...
+Unpacking libssh2-1:amd64 (1.8.0-2.1build1) ...
+Selecting previously unselected package mc-data.
+Preparing to unpack .../mc-data_3%3a4.8.24-2ubuntu1_all.deb ...
+Unpacking mc-data (3:4.8.24-2ubuntu1) ...
+Selecting previously unselected package mc.
+Preparing to unpack .../mc_3%3a4.8.24-2ubuntu1_amd64.deb ...
+Unpacking mc (3:4.8.24-2ubuntu1) ...
+Setting up mc-data (3:4.8.24-2ubuntu1) ...
+Setting up libssh2-1:amd64 (1.8.0-2.1build1) ...
+Setting up mc (3:4.8.24-2ubuntu1) ...
+Processing triggers for man-db (2.9.1-1) ...
+Processing triggers for mime-support (3.64ubuntu1) ...
+Processing triggers for libc-bin (2.31-0ubuntu9.9) ...
+
+___________________________________________________________________________
+
+# run Midnight Commander (mc):
+
+Visual File Manager

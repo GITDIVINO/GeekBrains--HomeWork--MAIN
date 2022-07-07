@@ -1,7 +1,6 @@
 from datetime import datetime
 from aiogram.utils import executor
-from create_bot import write_logs
-from create_bot import dp
+from create_bot import write_logs, dp
 from handlers import user, admin, other
 
 
