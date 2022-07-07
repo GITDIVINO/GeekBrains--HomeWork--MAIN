@@ -150,3 +150,176 @@
 2022-07-07 15:11:22.541450 -- Human (USER ID: 692820350) is needed for my HELP -->
 2022-07-07 15:11:24.373120 -- Human (USER ID: 692820350) is asking to calculate voyage -->
 2022-07-07 15:11:26.119754 -- Human (USER ID: 692820350) said the vessel` name is Ostborg -->
+
+2022-07-07 15:27:54.615143 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:28:06.641655 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:28:08.563415 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:28:09.979423 -- Human (USER ID: 692820350) said the vessel` name is Sydborg -->
+
+2022-07-07 15:30:40.705722 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:30:42.406225 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:30:43.917638 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:30:45.511334 -- Human (USER ID: 692820350) said the vessel` name is Sydborg -->
+
+2022-07-07 15:31:59.831295 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:32:01.214455 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:32:02.820213 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:32:04.065515 -- Human (USER ID: 692820350) said the vessel` name is Ostborg -->
+
+2022-07-07 15:32:22.782763 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:32:24.798295 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:32:30.742348 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:32:37.408696 -- Human (USER ID: 692820350) said the vessel` name is Jade -->
+
+2022-07-07 15:41:13.307070 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:41:18.895567 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:41:20.386984 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:41:21.746121 -- Human (USER ID: 692820350) said the vessel` name is Ostborg -->
+
+2022-07-07 15:42:45.312561 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:42:47.622739 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:42:48.916830 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 15:42:50.185371 -- Human (USER ID: 692820350) said the vessel` name is Ostborg -->
+
+2022-07-07 15:44:06.221662 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:44:09.447830 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:44:10.804818 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+2022-07-07 15:44:12.428292 -- Human (USER ID: 692820350) said the vessel` name is Kaliningrad -->
+
+2022-07-07 15:45:54.167124 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:45:55.753348 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:45:57.739777 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+2022-07-07 15:46:01.423036 -- Human (USER ID: 692820350) said the vessel` name is Kaliningrad -->
+2022-07-07 15:46:03.485348 -- Human (USER ID: 692820350) said the vessel` name is Kaliningrad -->
+
+2022-07-07 15:47:37.067166 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:47:38.686863 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:47:40.624209 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+2022-07-07 15:47:44.137640 -- Human (USER ID: 692820350) said the vessel` name is Kaliningrad -->
+2022-07-07 15:47:46.760625 -- Human (USER ID: 692820350) said the vessel` name is Klaipeda -->
+
+2022-07-07 15:49:49.350961 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 15:49:51.835145 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 15:49:54.903831 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+
+2022-07-07 16:07:07.439905 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:07:11.860930 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:07:13.315205 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+
+2022-07-07 16:07:57.698392 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:08:00.076016 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:08:01.710853 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-07 16:08:09.679164 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+
+2022-07-07 16:09:20.057310 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:09:25.088777 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:09:26.347187 -- Human (USER ID: 692820350) said the vessel` name is /voyage_calculator -->
+
+2022-07-07 16:10:39.776287 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:10:41.458852 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:10:42.930229 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+
+2022-07-07 16:10:59.489234 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:11:05.199762 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:11:06.418586 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+
+2022-07-07 16:11:26.926999 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:11:29.372360 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:11:30.620823 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 16:11:31.675259 -- Human (USER ID: 692820350) said the vessel` name is Ankie -->
+
+2022-07-07 16:11:46.673451 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:11:49.235744 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:11:50.304808 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 16:11:51.374325 -- Human (USER ID: 692820350) said the vessel` name is Ankie -->
+2022-07-07 16:11:52.570138 -- Human (USER ID: 692820350) said the vessel` name is Kaliningrad -->
+
+2022-07-07 16:15:11.092625 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:15:13.313293 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:15:14.620789 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 16:15:15.707171 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 16:15:18.021691 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+
+2022-07-07 16:47:46.257023 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:47:52.270806 -- Human (USER ID: 692820350) is needed for my HELP -->
+
+2022-07-07 16:49:01.858033 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:49:04.367049 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:49:07.786984 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 16:49:17.069689 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 16:49:27.530449 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+
+2022-07-07 16:57:40.177382 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 16:57:48.238791 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 16:57:49.601061 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 16:57:51.011577 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 16:57:54.366313 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 16:57:55.977578 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 16:58:13.366357 -- Human (USER ID: 692820350) said cargo was loaded on 2022-06-22 -->
+
+2022-07-07 17:00:13.678954 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:00:21.253101 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:00:22.616423 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:00:23.922347 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 17:00:25.355966 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:00:35.904619 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+
+2022-07-07 17:11:07.587581 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:11:23.955880 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:11:25.689839 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:11:27.120779 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-07 17:11:29.247287 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:11:30.698360 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 17:11:34.662940 -- Human (USER ID: 692820350) said cargo was loaded on 1 -->
+
+2022-07-07 17:18:35.172575 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:18:46.901373 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:18:48.380354 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:18:50.490613 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 17:18:52.041857 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:18:53.382158 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 17:19:00.008181 -- Human (USER ID: 692820350) said cargo was loaded on 556 -->
+
+2022-07-07 17:29:09.529827 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:29:15.275659 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:29:17.150903 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:29:18.566960 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 17:29:21.102883 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:29:22.613410 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 17:29:27.086589 -- Human (USER ID: 692820350) said cargo was loaded on 567788 -->
+2022-07-07 17:29:29.207028 -- Human (USER ID: 692820350) said this is Junuary shipment -->
+
+2022-07-07 17:31:02.107274 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:31:06.157337 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:31:07.563277 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:31:09.045516 -- Human (USER ID: 692820350) said the vessel`s name is Bergfjord -->
+2022-07-07 17:31:11.738437 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:31:14.058138 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 17:31:17.494399 -- Human (USER ID: 692820350) said cargo was loaded on 5677 -->
+2022-07-07 17:31:19.331188 -- Human (USER ID: 692820350) said this is Junuary shipment -->
+
+2022-07-07 17:35:09.171771 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:35:13.977647 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:35:18.613255 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:35:27.621060 -- Human (USER ID: 692820350) said the vessel`s name is Speyk -->
+2022-07-07 17:35:35.702532 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:35:38.390220 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-07 17:35:41.799674 -- Human (USER ID: 692820350) said cargo was loaded on 6677 -->
+2022-07-07 17:35:45.393021 -- Human (USER ID: 692820350) said this is Junuary shipment -->
+2022-07-07 17:35:48.727691 -- Human (USER ID: 692820350) said quantity of cargo loaded is 5667 -->
+
+2022-07-07 17:45:35.628702 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:45:42.172043 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:45:45.415894 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:45:46.849860 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 17:45:49.303074 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+
+2022-07-07 17:46:45.383444 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-07 17:46:47.939097 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-07 17:46:49.135275 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-07 17:46:50.552579 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-07 17:46:55.266227 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-07 17:47:01.036666 -- Human (USER ID: 692820350) said Port of Discharging is Le legue -->
+2022-07-07 17:47:04.867704 -- Human (USER ID: 692820350) said cargo was loaded on 6677 -->
+2022-07-07 17:47:09.391407 -- Human (USER ID: 692820350) said this is May shipment -->
+2022-07-07 17:47:12.633103 -- Human (USER ID: 692820350) said quantity of cargo loaded is 667 -->
