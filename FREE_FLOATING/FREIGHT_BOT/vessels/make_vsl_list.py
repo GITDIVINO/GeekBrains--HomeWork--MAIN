@@ -107,22 +107,22 @@ vessels = {
         'speed': 10,
         'capacity': 160000},
 
-    'egon w': {
+    'egon_w': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
 
-    'elke w': {
+    'elke_w': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
 
-    'marietje hester': {
+    'marietje_hester': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
 
-    'merel v': {
+    'merel_v': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
@@ -132,7 +132,7 @@ vessels = {
         'speed': 10,
         'capacity': 160000},
 
-    'panta rhei': {
+    'panta_rhei': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
@@ -152,7 +152,7 @@ vessels = {
         'speed': 10,
         'capacity': 160000},
 
-    'alana evita': {
+    'alana_evita': {
         'consumption': 5,
         'speed': 10,
         'capacity': 158985},
@@ -203,6 +203,7 @@ vessels_lst = []
 for vessel in vessels:
     vessels_lst.append(vessel)
 
-# creating json file to speed up the programm
+# creating json file to speed up the program
 with open('data.json', 'w', encoding='utf-8') as outfile:
     json.dump(vessels, outfile)
+
