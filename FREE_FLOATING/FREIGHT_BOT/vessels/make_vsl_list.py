@@ -117,7 +117,7 @@ vessels = {
         'speed': 10,
         'capacity': 160000},
 
-    'marietje_hester': {
+    'zeeland': {
         'consumption': 5,
         'speed': 10,
         'capacity': 160000},
@@ -192,7 +192,7 @@ vessels = {
         'speed': 10,
         'capacity': 158985},
 
-    'zeeland': {
+    'marietje_hester': {
         'consumption': 5,
         'speed': 10,
         'capacity': 158985},

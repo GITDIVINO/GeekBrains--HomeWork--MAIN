@@ -99,3 +99,14 @@ m12 = KeyboardButton('December')
 
 kb_months = ReplyKeyboardMarkup(resize_keyboard=True)
 kb_months.add(m1, m2, m3, m4, m5, m6, m7, m8, m9, m10, m11, m12)
+
+
+# cargoes buttons
+c1 = KeyboardButton('SBM')
+c2 = KeyboardButton('RSM')
+c3 = KeyboardButton('SH')
+
+kb_cargoes = ReplyKeyboardMarkup(resize_keyboard=True)
+kb_cargoes.add(c1, c2, c3)
+
+
