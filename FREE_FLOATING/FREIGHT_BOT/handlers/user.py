@@ -5,6 +5,7 @@ from create_bot import dp, write_logs
 from keyboards import kb_user, kb_vessels, kb_load_ports, kb_dis_ports, kb_months
 from aiogram.dispatcher.filters.state import State, StatesGroup
 from aiogram.dispatcher import FSMContext
+from EUR_USD import scrap_rate_of_exchange
 
 
 # greetings
@@ -27,6 +28,30 @@ async def show_vessels_lst(message: types.Message):
         write_logs(f'\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) is requesting "vessels_lst" -->')
 
 
+# class for voyage calculator
+class RateExchange(StatesGroup):
+    DATE_OF_BL = State()
+
+
+# get USD-EUR rate of exchange
+# @dp.message_handler(commands=['EUR_USD_exchange'])
+async def request_bl_date(message: types.Message):
+    await message.answer('Please enter date of B/L:')
+    write_logs(f'\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) is requesting "EUR-USD rate" -->')
+
+
+# catch DATE_OF_BL
+@dp.message_handler(state=RateExchange.DATE_OF_BL)
+async def show_usd_eur_exchange(message: types.Message, state: FSMContext):
+    async with state.proxy() as data:
+        data['DATE_OF_BL'] = message.text
+        rate_ = f"USD - EUR: {scrap_rate_of_exchange(data['DATE_OF_BL'])}"
+        await message.answer(rate_, reply_markup=kb_user)  # result of calculation
+    write_logs(f"\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) received {rate_} -->")
+    await state.finish()
+
+
+# class for voyage calculator
 class VoyageCalculator(StatesGroup):
     VESSEL_NAME = State()
     PORT_OF_LOADING = State()
@@ -104,18 +129,28 @@ async def catch_shipment_month(message: types.Message, state: FSMContext):
 async def catch_quantity_loaded(message: types.Message, state: FSMContext):
     async with state.proxy() as data:
         data['QUANTITY_AS_PER_BL'] = message.text
-    await VoyageCalculator.next()
-    await message.answer('FINISH')
+    await message.answer('FINISH')  # result of calculation
     write_logs(f"\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) said quantity of cargo loaded"
                f" is {data['QUANTITY_AS_PER_BL'].capitalize()} -->")
+
+    async with state.proxy() as data:
+        await message.reply(str(data))
+    await state.finish()
 
 
 def register_handlers_user(dp: Dispatcher):
     dp.register_message_handler(greetings, commands=['start', 'help'])
+
     dp.register_message_handler(show_vessels_lst, commands=['vessels_list'])
+
+    dp.register_message_handler(request_bl_date, commands=['EUR_USD_exchange'])
+    dp.register_message_handler(show_usd_eur_exchange)
+
     dp.register_message_handler(command_start, commands=['Voyage_calculator'])
-    dp.register_message_handler(catch_vsl_name)
-    dp.register_message_handler(catch_loading_port)
-    dp.register_message_handler(catch_bl_date)
-    dp.register_message_handler(catch_shipment_month)
-    dp.register_message_handler(catch_quantity_loaded)
+    # dp.register_message_handler(catch_vsl_name)
+    # dp.register_message_handler(catch_loading_port)
+    # dp.register_message_handler(catch_bl_date)
+    # dp.register_message_handler(catch_shipment_month)
+    # dp.register_message_handler(catch_quantity_loaded)
+
+

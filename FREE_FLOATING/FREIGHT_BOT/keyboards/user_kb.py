@@ -1,11 +1,10 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-
 # start buttons
 b1 = KeyboardButton('/Voyage_calculator')
 b2 = KeyboardButton('/vessels_list')
-b3 = KeyboardButton('EUR-USD rate of exchange')
-b4 = KeyboardButton('Intake calculator')
+b3 = KeyboardButton('/EUR_USD_exchange')
+b4 = KeyboardButton('/Intake_calculator')
 
 kb_user = ReplyKeyboardMarkup(resize_keyboard=True)
 kb_user.add(b1).add(b2).add(b3).add(b4)
