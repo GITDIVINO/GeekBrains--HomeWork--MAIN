@@ -741,3 +741,100 @@
 2022-07-08 23:44:21.951286 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
 2022-07-08 23:44:23.916264 -- Human (USER ID: 692820350) said this is February shipment -->
 2022-07-08 23:44:28.824028 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3245 -->
+
+2022-07-08 23:48:54.074581 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-08 23:49:02.464769 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-08 23:49:05.449149 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-08 23:49:06.441503 -- Human (USER ID: 692820350) said the vessel`s name is Ruyter -->
+2022-07-08 23:49:07.675460 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3222 mts' -->
+2022-07-08 23:49:12.276531 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+
+2022-07-08 23:49:40.942753 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-08 23:50:02.671263 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-08 23:50:04.949369 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-08 23:50:12.995360 -- Human (USER ID: 692820350) received USD - EUR: 1.0180 -->
+2022-07-08 23:50:15.154395 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-08 23:50:16.592930 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-08 23:50:17.508530 -- Human (USER ID: 692820350) said the vessel`s name is Leonie -->
+2022-07-08 23:50:18.550800 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-08 23:50:19.463565 -- Human (USER ID: 692820350) said Port of Discharging is Brest -->
+2022-07-08 23:50:28.934296 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-08 23:50:30.099326 -- Human (USER ID: 692820350) said this is February shipment -->
+2022-07-08 23:50:34.827659 -- Human (USER ID: 692820350) said quantity of cargo loaded is Hhh -->
+
+2022-07-09 14:15:36.193005 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:15:52.167329 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:15:54.326300 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:16:03.467263 -- Human (USER ID: 692820350) received USD - EUR: 1.0180 -->
+
+2022-07-09 14:31:58.809106 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:32:03.965598 -- Human (USER ID: 692820350) is needed for my HELP -->
+
+2022-07-09 14:32:59.261664 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:33:02.490283 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:33:04.822757 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-09 14:33:06.338423 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-09 14:33:07.693320 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3534 mts' -->
+2022-07-09 14:33:13.021124 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+
+2022-07-09 14:33:56.780232 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:34:00.984106 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:34:03.250845 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-09 14:34:30.124737 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-09 14:34:32.555622 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-09 14:34:33.897379 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3796 mts' -->
+2022-07-09 14:34:35.916740 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:34:45.055627 -- Human (USER ID: 692820350) received USD - EUR: 1.0180 -->
+
+2022-07-09 14:37:29.685287 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:37:35.028757 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:37:37.913070 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+
+2022-07-09 14:38:12.336251 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:38:12.840258 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:38:14.527197 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+
+2022-07-09 14:39:04.692893 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:39:12.839507 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:39:14.868105 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:39:21.250763 -- Human (USER ID: 692820350) received USD - EUR: 1.0180 -->
+
+2022-07-09 14:41:33.931270 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:41:35.578140 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:41:37.452649 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:41:43.574623 -- Human (USER ID: 692820350) received USD - EUR: ('1.0180', '2022-07-07') -->
+
+2022-07-09 14:42:56.475519 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:43:01.317277 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:43:03.153786 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+
+2022-07-09 14:43:40.211194 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:43:43.576060 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:43:45.564016 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:43:51.585670 -- Human (USER ID: 692820350) received USD - EUR[2022-07-07]: 1.0180 -->
+
+2022-07-09 14:44:30.866294 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:44:34.562949 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 14:44:36.502130 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:44:42.667200 -- Human (USER ID: 692820350) received USD - EUR on 2022-07-08: 1.0163 -->
+
+2022-07-09 14:52:13.162699 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:52:18.984687 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:52:32.977711 -- Human (USER ID: 692820350) received USD - EUR [2022-07-07]: 1.0180 -->
+2022-07-09 14:52:36.872438 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:52:49.536488 -- Human (USER ID: 692820350) received USD - EUR [2022-07-08]: 1.0163 -->
+
+2022-07-09 14:59:23.230636 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 14:59:25.357821 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-09 14:59:26.540144 -- Human (USER ID: 692820350) said the vessel`s name is Tucana -->
+2022-07-09 14:59:28.100557 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3425 mts' -->
+2022-07-09 14:59:30.779494 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 14:59:39.153726 -- Human (USER ID: 692820350) received USD - EUR [2022-07-07]: 1.0180 -->
+2022-07-09 14:59:47.407518 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-09 14:59:49.238338 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-09 14:59:50.851720 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-09 14:59:52.289179 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-09 14:59:53.409418 -- Human (USER ID: 692820350) said Port of Discharging is Bremen -->
+2022-07-09 14:59:56.300051 -- Human (USER ID: 692820350) said cargo was loaded on Ролл -->
+2022-07-09 14:59:57.586313 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-09 15:00:01.192919 -- Human (USER ID: 692820350) said quantity of cargo loaded is Ролл -->

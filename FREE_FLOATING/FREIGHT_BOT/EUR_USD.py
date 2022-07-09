@@ -19,7 +19,7 @@ def scrap_rate_of_exchange(date_of_bl):
         if date_of_bl in dates_lst:
             for value in values:  # <class 'bs4.element.Tag'>
                 if date_of_bl == value['TIME_PERIOD']:
-                    return value['OBS_VALUE']
+                    return value['OBS_VALUE'], date_of_bl
         else:
             date_of_bl = str(DT.datetime.strptime(date_of_bl, '%Y-%m-%d').date() - DT.timedelta(days=1))
 

@@ -1,5 +1,5 @@
 from . import user
-from . import other
+from . import exchange
 
 
 

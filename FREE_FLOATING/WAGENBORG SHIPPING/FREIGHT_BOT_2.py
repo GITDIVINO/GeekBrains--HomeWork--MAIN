@@ -2,7 +2,7 @@ from aiogram import Bot, types
 from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 import json
-from vessels.make_vsl_list import vessels_lst
+from intake.make_vsl_list import vessels_lst
 from keyboards.user_kb import kb_user, kb_vessels
 from aiogram.types import ReplyKeyboardRemove
 from aiogram.contrib.fsm_storage.memory import MemoryStorage
