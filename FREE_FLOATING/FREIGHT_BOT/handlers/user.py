@@ -110,7 +110,7 @@ async def catch_shipment_month(message: types.Message, state: FSMContext):
 async def catch_quantity_loaded(message: types.Message, state: FSMContext):
     async with state.proxy() as data:
         data['QUANTITY_AS_PER_BL'] = message.text
-    await message.answer('FINISH')  # result of calculation
+    await message.answer('FINISH', reply_markup=kb_user)  # result of calculation
     write_logs(f"\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) said quantity of cargo loaded"
                f" is {data['QUANTITY_AS_PER_BL'].capitalize()} -->")
 

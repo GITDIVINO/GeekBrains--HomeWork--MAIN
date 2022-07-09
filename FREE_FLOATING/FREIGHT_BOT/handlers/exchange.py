@@ -17,7 +17,7 @@ class RateExchange(StatesGroup):
 # @dp.message_handler(commands=['EUR_USD_exchange'])
 async def request_bl_date(message: types.Message):
     await RateExchange.DATE_BL.set()
-    await message.answer('Please enter date of B/L:')
+    await message.answer('Please enter date of B/L:', reply_markup=types.ReplyKeyboardRemove())
     write_logs(f'\n{datetime.now()} -- Human (USER ID: {message.from_user.id}) is requesting "EUR-USD rate" -->')
 
 
@@ -35,3 +35,4 @@ async def show_usd_eur_exchange(message: types.Message, state: FSMContext):
 def register_handlers_exchange(dp : Dispatcher):
     dp.register_message_handler(request_bl_date, commands=['EUR_USD_exchange'])
     dp.register_message_handler(show_usd_eur_exchange, state=RateExchange.DATE_BL)
+
