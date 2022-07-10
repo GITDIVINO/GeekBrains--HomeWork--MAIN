@@ -1,7 +1,7 @@
 from datetime import datetime
 from aiogram.utils import executor
 from create_bot import write_logs, dp
-from handlers import user, exchange, intake
+from handlers import user, exchange, intake, voayge_calculator
 
 
 # service info for console/logs
@@ -11,6 +11,7 @@ async def on_startup(_):
 user.register_handlers_user(dp)
 exchange.register_handlers_exchange(dp)
 intake.register_handlers_intake(dp)
+voayge_calculator.register_handlers_voyage_calculator(dp)
 
 executor.start_polling(dp, skip_updates=True, on_startup=on_startup)  # polling mode
 

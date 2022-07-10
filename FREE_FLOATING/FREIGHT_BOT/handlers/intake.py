@@ -38,7 +38,6 @@ async def catch_cargo_name(message: types.Message, state: FSMContext):
     async with state.proxy() as data:
         data['CARGO_NAME'] = message.text   # this is not necessary, but i`ll leave it here
         with open(r'vessels\data.json', 'r', encoding='utf-8') as f:
-            result = 'WAGENBORG SHIPPING:\n'
             vsl_data = json.load(f)
             async with state.proxy() as data:
                 if message.text == 'RSM':

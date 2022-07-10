@@ -19,3 +19,289 @@
 2022-07-09 20:51:23.545764 -- Human (USER ID: 692820350) said cargo was loaded on Д -->
 2022-07-09 20:51:24.740623 -- Human (USER ID: 692820350) said this is June shipment -->
 2022-07-09 20:51:26.631257 -- Human (USER ID: 692820350) said quantity of cargo loaded is З -->
+
+2022-07-09 20:56:33.436501 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 20:57:41.475562 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 20:57:43.853104 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-09 20:57:46.106847 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-09 20:57:47.072770 -- Human (USER ID: 692820350) said the vessel`s name is Ruyter -->
+2022-07-09 20:57:48.089891 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3222 mts' -->
+2022-07-09 20:57:49.368643 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 20:58:01.805028 -- Human (USER ID: 692820350) received [2022-07-07] USD - EUR: 1.0180 -->
+2022-07-09 20:58:04.902200 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-09 20:58:05.746248 -- Human (USER ID: 692820350) said the vessel`s name is Leonie -->
+2022-07-09 20:58:06.694406 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-09 20:58:07.806057 -- Human (USER ID: 692820350) said Port of Discharging is Brest -->
+2022-07-09 20:58:09.667757 -- Human (USER ID: 692820350) said cargo was loaded on Бл -->
+2022-07-09 20:58:10.249880 -- Human (USER ID: 692820350) said this is March shipment -->
+2022-07-09 20:58:12.110074 -- Human (USER ID: 692820350) said quantity of cargo loaded is Жду -->
+
+2022-07-09 21:16:34.385385 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+
+2022-07-09 21:20:26.902351 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 21:53:39.495510 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-09 21:53:41.785329 -- Human (USER ID: 692820350) said the vessel`s name is Tucana -->
+2022-07-09 21:53:42.866940 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-09 21:53:43.797603 -- Human (USER ID: 692820350) said Port of Discharging is Brest -->
+2022-07-09 21:53:45.594905 -- Human (USER ID: 692820350) said cargo was loaded on Б -->
+2022-07-09 21:53:46.213403 -- Human (USER ID: 692820350) said this is March shipment -->
+2022-07-09 21:53:48.095770 -- Human (USER ID: 692820350) said quantity of cargo loaded is Ж -->
+
+2022-07-09 22:04:28.539332 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-09 22:04:33.884682 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-09 22:04:43.855123 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-09 22:04:46.923675 -- Human (USER ID: 692820350) said the vessel`s name is Sydborg -->
+2022-07-09 22:04:47.994281 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3796 mts' -->
+2022-07-09 22:04:49.884226 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-09 22:04:51.915386 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-09 22:04:59.489938 -- Human (USER ID: 692820350) received [2022-07-07] USD - EUR: 1.0180 -->
+2022-07-09 22:05:01.051958 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+
+2022-07-09 22:06:39.446636 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+
+2022-07-09 22:38:12.056401 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+
+2022-07-10 11:03:25.503597 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 11:03:50.771867 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 11:03:59.652714 -- Human (USER ID: 5114694590) is requesting to count intake -->
+2022-07-10 11:04:01.196024 -- Human (USER ID: 5114694590) said the vessel`s name is Tucana -->
+2022-07-10 11:04:02.601202 -- Human (USER ID: 5114694590) received 'Vessel`s intake is 3189 mts' -->
+2022-07-10 11:04:04.878485 -- Human (USER ID: 5114694590) is requesting "EUR-USD rate" -->
+2022-07-10 11:04:17.986172 -- Human (USER ID: 5114694590) received [2022-07-07] USD - EUR: 1.0180 -->
+2022-07-10 11:04:23.065112 -- Human (USER ID: 5114694590) is requesting "vessels_lst" -->
+2022-07-10 11:04:24.953208 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 11:04:26.527937 -- Human (USER ID: 5114694590) said the vessel`s name is Ostborg -->
+2022-07-10 11:04:27.713342 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 11:04:28.753301 -- Human (USER ID: 5114694590) said Port of Discharging is Montrose -->
+2022-07-10 11:04:31.079142 -- Human (USER ID: 5114694590) said cargo was loaded on Л -->
+2022-07-10 11:04:31.827559 -- Human (USER ID: 5114694590) said this is June shipment -->
+2022-07-10 11:04:33.750654 -- Human (USER ID: 5114694590) said quantity of cargo loaded is Д -->
+
+2022-07-10 11:58:51.527064 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 11:58:58.923094 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 11:59:00.796817 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 11:59:02.593735 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 11:59:05.177438 -- Human (USER ID: 5114694590) said Port of Discharging is New holland -->
+2022-07-10 11:59:15.344079 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 11:59:17.471902 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 11:59:26.102889 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 3000 -->
+2022-07-10 11:59:43.842119 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 1.300 -->
+2022-07-10 11:59:58.667430 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 1.300 -->
+
+2022-07-10 12:02:23.886124 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 12:02:35.696789 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 12:02:38.228948 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 12:02:38.448968 -- Human (USER ID: 5114694590) said the vessel`s name is /voyage_calculator -->
+2022-07-10 12:02:40.398285 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 12:02:41.844514 -- Human (USER ID: 5114694590) said Port of Discharging is Wc uk -->
+2022-07-10 12:02:49.005849 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 12:02:50.424570 -- Human (USER ID: 5114694590) said this is March shipment -->
+2022-07-10 12:02:55.029619 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 4500 -->
+
+2022-07-10 12:03:16.652218 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 12:03:20.964048 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 12:03:22.789395 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 12:03:23.854398 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 12:03:25.082119 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 12:03:26.467427 -- Human (USER ID: 5114694590) said Port of Discharging is Wc uk -->
+2022-07-10 12:03:33.039452 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 12:03:34.566186 -- Human (USER ID: 5114694590) said this is June shipment -->
+2022-07-10 12:03:38.944452 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 2300 -->
+
+2022-07-10 12:04:34.025037 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 12:04:35.884321 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 12:04:37.395652 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 12:04:38.466763 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 12:04:39.679668 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 12:04:40.923078 -- Human (USER ID: 5114694590) said Port of Discharging is Rotterdam -->
+2022-07-10 12:04:47.159919 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 12:04:49.189390 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 12:04:53.509091 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 3000 -->
+
+2022-07-10 12:05:09.657689 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 12:05:11.944889 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 12:05:13.410149 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 12:05:14.511654 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 12:05:15.740132 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 12:05:15.865911 -- Human (USER ID: 5114694590) said Port of Discharging is Kaliningrad -->
+2022-07-10 12:05:23.508232 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 12:05:24.750451 -- Human (USER ID: 5114694590) said this is June shipment -->
+2022-07-10 12:05:27.921086 -- Human (USER ID: 5114694590) said quantity of cargo loaded is F -->
+
+2022-07-10 12:07:03.535569 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 12:07:05.429331 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 12:07:06.956572 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 12:07:08.791411 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 12:07:10.130699 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 12:07:11.459511 -- Human (USER ID: 5114694590) said Port of Discharging is Le legue -->
+2022-07-10 12:07:18.990645 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 12:07:20.435572 -- Human (USER ID: 5114694590) said this is January shipment -->
+2022-07-10 12:07:25.487917 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 3000 -->
+
+2022-07-10 13:34:25.228867 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:34:36.564116 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 13:34:38.049648 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:34:39.295938 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 13:34:40.581822 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:34:41.762016 -- Human (USER ID: 5114694590) said Port of Discharging is Wc uk -->
+2022-07-10 13:34:49.642057 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:34:51.688572 -- Human (USER ID: 5114694590) said this is March shipment -->
+2022-07-10 13:34:55.767560 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 3000 -->
+
+2022-07-10 13:36:35.093985 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:36:40.023109 -- Human (USER ID: 5114694590) is needed for my HELP -->
+2022-07-10 13:36:41.708196 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:36:42.952448 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 13:36:44.197170 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:36:45.507310 -- Human (USER ID: 5114694590) said Port of Discharging is Rotterdam -->
+2022-07-10 13:37:00.712266 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:37:02.237855 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 13:37:06.839983 -- Human (USER ID: 5114694590) said quantity of cargo loaded is 3000 -->
+2022-07-10 13:37:13.855977 -- Human (USER ID: 5114694590) insert MGO price is 500 -->
+
+2022-07-10 13:38:23.422899 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:38:28.553111 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:38:30.132443 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 13:38:31.385975 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:38:32.542099 -- Human (USER ID: 5114694590) said Port of Discharging is Wc uk -->
+2022-07-10 13:38:39.455925 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:38:41.650226 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 13:38:44.013785 -- Human (USER ID: 5114694590) said quantity of cargo loaded is H -->
+2022-07-10 13:38:47.420430 -- Human (USER ID: 5114694590) insert MGO price is 50 -->
+
+2022-07-10 13:40:13.087401 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:40:14.743349 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:40:15.703663 -- Human (USER ID: 5114694590) said the vessel`s name is Sydborg -->
+2022-07-10 13:40:16.916416 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:40:18.112302 -- Human (USER ID: 5114694590) said Port of Discharging is Wc uk -->
+2022-07-10 13:40:26.459366 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:40:27.785806 -- Human (USER ID: 5114694590) said this is May shipment -->
+2022-07-10 13:40:30.422645 -- Human (USER ID: 5114694590) said quantity of cargo loaded is Y -->
+
+2022-07-10 13:42:02.030905 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:42:06.597910 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:42:08.755041 -- Human (USER ID: 5114694590) said the vessel`s name is Ostborg -->
+2022-07-10 13:42:10.107103 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:42:11.255048 -- Human (USER ID: 5114694590) said Port of Discharging is Rotterdam -->
+2022-07-10 13:42:18.577945 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:42:20.274875 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 13:42:25.808664 -- Human (USER ID: 5114694590) said quantity of cargo loaded is Y -->
+
+2022-07-10 13:44:33.164603 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 13:44:36.014979 -- Human (USER ID: 5114694590) is asking to calculate voyage -->
+2022-07-10 13:44:37.716028 -- Human (USER ID: 5114694590) said the vessel`s name is Ostborg -->
+2022-07-10 13:44:38.943882 -- Human (USER ID: 5114694590) said Port of Loading is Kaliningrad -->
+2022-07-10 13:44:40.156191 -- Human (USER ID: 5114694590) said Port of Discharging is Le legue -->
+2022-07-10 13:44:46.831809 -- Human (USER ID: 5114694590) said cargo was loaded on 2022-07-07 -->
+2022-07-10 13:44:48.403518 -- Human (USER ID: 5114694590) said this is February shipment -->
+2022-07-10 13:44:50.938820 -- Human (USER ID: 5114694590) said quantity of cargo loaded is Y -->
+2022-07-10 13:44:54.891168 -- Human (USER ID: 5114694590) insert MGO price is 1340 -->
+
+2022-07-10 14:22:59.219300 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 14:23:11.641113 -- Human (USER ID: 692820350) is needed for my HELP -->
+2022-07-10 14:23:13.261121 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 14:23:14.489478 -- Human (USER ID: 692820350) said the vessel`s name is Tucana -->
+2022-07-10 14:23:15.781472 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 14:23:17.841245 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 14:23:24.141271 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 14:23:28.595003 -- Human (USER ID: 692820350) said this is January shipment -->
+2022-07-10 14:23:32.500050 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+
+2022-07-10 14:24:27.271695 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 14:24:34.206829 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 14:24:36.254571 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-10 14:24:37.467702 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 14:24:38.995580 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 14:24:47.483069 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 14:24:49.042765 -- Human (USER ID: 692820350) said this is January shipment -->
+2022-07-10 14:24:52.397899 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 14:24:56.334545 -- Human (USER ID: 692820350) insert MGO price is 1340 -->
+
+2022-07-10 14:32:16.341677 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 14:33:40.123715 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 14:33:41.698106 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-10 14:33:43.003767 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 14:33:45.173366 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 14:33:51.158950 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 14:33:52.795263 -- Human (USER ID: 692820350) said this is January shipment -->
+2022-07-10 14:33:59.516867 -- Human (USER ID: 692820350) said quantity of cargo loaded is П -->
+2022-07-10 14:34:03.320176 -- Human (USER ID: 692820350) insert MGO price is 1340 -->
+2022-07-10 14:34:48.281004 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 14:34:52.547005 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-10 14:34:54.686328 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 14:34:56.733409 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 14:35:04.394532 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 14:35:07.445427 -- Human (USER ID: 692820350) said this is January shipment -->
+2022-07-10 14:35:11.491078 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 14:35:15.917083 -- Human (USER ID: 692820350) insert MGO price is 1200 -->
+
+2022-07-10 14:39:15.939782 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 14:39:28.847021 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 14:39:45.695308 -- Human (USER ID: 692820350) said the vessel`s name is Adamas -->
+2022-07-10 14:39:47.472577 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 14:39:49.045395 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 14:39:55.240204 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 14:39:59.179585 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-10 14:40:02.966257 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 14:40:08.033728 -- Human (USER ID: 692820350) insert MGO price is 1250 -->
+
+2022-07-10 15:05:58.921328 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 15:08:25.858583 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 15:08:28.659930 -- Human (USER ID: 692820350) said the vessel`s name is Nordborg -->
+2022-07-10 15:08:32.453849 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 15:08:34.231475 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 15:08:39.877462 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 15:08:44.049378 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-10 15:08:47.876210 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+
+2022-07-10 15:11:33.376904 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 15:11:37.619419 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 15:11:45.301962 -- Human (USER ID: 692820350) said the vessel`s name is Adamas -->
+2022-07-10 15:11:46.835818 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 15:11:48.545692 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 15:11:54.155717 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 15:11:57.303314 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-10 15:12:00.526253 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 15:12:03.760831 -- Human (USER ID: 692820350) insert MGO price is 1200 -->
+2022-07-10 15:17:14.357805 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-10 15:17:28.227604 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-10 15:17:41.598195 -- Human (USER ID: 692820350) received [2022-07-07] USD - EUR: 1.0180 -->
+2022-07-10 15:17:46.716282 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-10 15:17:50.355300 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-10 15:17:52.499075 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3534 mts' -->
+2022-07-10 15:17:58.969010 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 15:18:06.323840 -- Human (USER ID: 692820350) said the vessel`s name is Adamas -->
+2022-07-10 15:18:08.464645 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 15:18:16.756221 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 15:18:22.486107 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 15:18:25.697561 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-10 15:18:31.554415 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 15:18:35.479964 -- Human (USER ID: 692820350) insert MGO price is 1200 -->
+
+2022-07-10 15:36:52.802293 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 15:36:57.808494 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 15:37:00.874086 -- Human (USER ID: 692820350) said the vessel`s name is Adamas -->
+2022-07-10 15:37:03.173462 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 15:37:05.172819 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 15:37:11.266656 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 15:37:14.303991 -- Human (USER ID: 692820350) said this is June shipment -->
+2022-07-10 15:37:18.099263 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 15:37:21.500208 -- Human (USER ID: 692820350) insert MGO price is 1200 -->
+
+2022-07-10 15:42:30.092813 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-10 15:42:33.501188 -- Human (USER ID: 692820350) is asking to calculate voyage -->
+2022-07-10 15:42:36.630875 -- Human (USER ID: 692820350) said the vessel`s name is Adamas -->
+2022-07-10 15:42:38.140726 -- Human (USER ID: 692820350) said Port of Loading is Kaliningrad -->
+2022-07-10 15:42:39.499229 -- Human (USER ID: 692820350) said Port of Discharging is St. malo -->
+2022-07-10 15:42:44.849091 -- Human (USER ID: 692820350) said cargo was loaded on 2022-07-07 -->
+2022-07-10 15:42:48.141510 -- Human (USER ID: 692820350) said this is July shipment -->
+2022-07-10 15:42:51.468240 -- Human (USER ID: 692820350) said quantity of cargo loaded is 3000 -->
+2022-07-10 15:42:54.538532 -- Human (USER ID: 692820350) insert MGO price is 1200 -->
+2022-07-10 15:43:37.552421 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-10 15:43:38.794166 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-10 15:43:39.974521 -- Human (USER ID: 692820350) said the vessel`s name is Avalon -->
+2022-07-10 15:43:41.062900 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3189 mts' -->
+2022-07-10 15:43:44.213853 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-10 15:43:51.085487 -- Human (USER ID: 692820350) received [2022-07-07] USD - EUR: 1.0180 -->
+2022-07-10 15:43:58.050044 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
+2022-07-10 15:44:03.935537 -- Human (USER ID: 692820350) received [2022-07-08] USD - EUR: 1.0163 -->

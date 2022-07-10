@@ -78,9 +78,10 @@ dp10 = KeyboardButton('Plymouth')
 dp11 = KeyboardButton('Teignmouth')
 dp12 = KeyboardButton('Brest')
 dp13 = KeyboardButton('Brugge')
+dp14 = KeyboardButton('Hamburg')
 
 kb_dis_ports = ReplyKeyboardMarkup(resize_keyboard=True)
-kb_dis_ports.add(dp1, dp2, dp3, dp4, dp5, dp6, dp7, dp8, dp9, dp10, dp11, dp12, dp13)
+kb_dis_ports.add(dp1, dp2, dp3, dp4, dp5, dp6, dp7, dp8, dp9, dp10, dp11, dp12, dp13, dp14)
 
 
 # dis ports buttons
@@ -93,8 +94,8 @@ m6 = KeyboardButton('June')
 m7 = KeyboardButton('July')
 m8 = KeyboardButton('August')
 m9 = KeyboardButton('September')
-m10 = KeyboardButton('November')
-m11 = KeyboardButton('October')
+m10 = KeyboardButton('October')
+m11 = KeyboardButton('November')
 m12 = KeyboardButton('December')
 
 kb_months = ReplyKeyboardMarkup(resize_keyboard=True)
