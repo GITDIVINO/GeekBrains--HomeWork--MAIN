@@ -1,0 +1,159 @@
+Александр Пикуль, ДЗ №2 Linux.Рабочая станция
+
+1.Создать каталоги students и mentors в домашней директории, а в них — текстовые файлы
+students_list.txt и mentors_list.txt соответственно:
+
+--------------------------------------------------------------------------------------
+root@vmi851772:/home# ls -la
+total 12
+drwxr-xr-x  3 root     root     4096 Apr 13 16:24 .
+drwxr-xr-x 18 root     root     4096 Apr 13 10:43 ..
+drwxr-xr-x  7 aldivino aldivino 4096 Apr 13 16:56 aldivino
+root@vmi851772:/home# mkdir students
+root@vmi851772:/home# mkdir mentors
+root@vmi851772:/home# cd students/
+root@vmi851772:/home/students# touch students_list.txt
+root@vmi851772:/home/students# cd ..
+root@vmi851772:/home# cd mentors/
+root@vmi851772:/home/mentors# nano mentors_list.txt
+root@vmi851772:/home/mentors# cd ..
+root@vmi851772:/home#
+root@vmi851772:/home# ls -la
+total 20
+drwxr-xr-x  5 root     root     4096 Jul 14 08:52 .
+drwxr-xr-x 18 root     root     4096 Apr 13 10:43 ..
+drwxr-xr-x  7 aldivino aldivino 4096 Apr 13 16:56 aldivino
+drwxr-xr-x  2 root     root     4096 Jul 14 09:01 mentors		<------- directory mentors
+drwxr-xr-x  2 root     root     4096 Jul 14 09:00 students		<------- directory students
+root@vmi851772:/home#
+root@vmi851772:/home# cd mentors/
+root@vmi851772:/home/mentors# ls
+mentors_list.txt										<------- file mentors_list.txt
+root@vmi851772:/home/mentors#
+root@vmi851772:/home/mentors# cd ..
+root@vmi851772:/home# cd students/
+root@vmi851772:/home/students# ls
+students_list.txt										<------- file students_list.txt
+root@vmi851772:/home/students#
+--------------------------------------------------------------------------------------
+
+Можно было бы использовать команду "tree" для визуального отображения, но у меня там 
+каталог "aldivino" лежит с моими проектами с сотнями файлов и дирректорий :)
+
+|
+|
+|
+|
+|
+
+2. Открыть созданные в п.1 файлы в любом текстовом редакторе и заполнить их (в соответствии
+с названием) списком Ваших одногруппников и наставников на данном потоке:
+
+Использовал vim (что бы выйти, перезагружал компьютер :) )
+
+---------------------------------------------------------------------------------------
+
+root@vmi851772:/home# cat mentors/mentors_list.txt
+Here new file made by nano, but reducted by vim				<------- start file (mentors_list.txt)
+
+
+Teacher - Kirill Ivanov
+
+Tutor - Irina Shchepetova								<------- end file (mentors_list.txt)
+root@vmi851772:/home#
+
+
+root@vmi851772:/home# vim students/students_list.txt
+root@vmi851772:/home# cat students/students_list.txt
+Students of GeekBrains Linux.Working station May 2022
+
+													<------- start file (students_list.txt)
+Julia Pavlova
+Stanislav Ignatev
+Alexander Korelskiy
+Dmitri Mokrousov
+Ruslan Esengeldinov
+
+and others......										<------- start file (students_list.txt)
+root@vmi851772:/home#
+---------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+3. Переместите файл mentors_list.txt в папку students:
+--------------------------------------------------------------------------------------
+root@vmi851772:/home# mv mentors/mentors_list.txt students/
+root@vmi851772:/home# cd students/
+root@vmi851772:/home/students# ls
+mentors_list.txt  students_list.txt						<------- file mentors_list.txt moved to students directory
+root@vmi851772:/home/students#
+--------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+4. Удалите папку mentors:
+--------------------------------------------------------------------------------------
+root@vmi851772:/home# ls -a
+.  ..  aldivino  mentors  students
+root@vmi851772:/home# rmdir mentors/
+root@vmi851772:/home# ls -a
+.  ..  aldivino  students								<------- directory mentors deleted
+root@vmi851772:/home#
+-------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+5. Переименуйте папку students в students_and_mentors:
+-------------------------------------------------------------------------------------
+root@vmi851772:/home# ls -a
+.  ..  aldivino  students
+root@vmi851772:/home# mv students students_and_mentors
+root@vmi851772:/home# ls -a
+.  ..  aldivino  students_and_mentors						<------- directory renamed
+root@vmi851772:/home#
+-------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+6. Удалите папку students_and_mentors вместе с содержимым:
+-------------------------------------------------------------------------------------
+root@vmi851772:/home# ls -l
+total 8
+drwxr-xr-x 7 aldivino aldivino 4096 Apr 13 16:56 aldivino
+drwxr-xr-x 2 root     root     4096 Jul 14 11:31 students_and_mentors
+root@vmi851772:/home# rm -rf students_and_mentors/
+root@vmi851772:/home# ls -l
+total 4												<------- directory deleted
+drwxr-xr-x 7 aldivino aldivino 4096 Apr 13 16:56 aldivino		
+root@vmi851772:/home#
+-------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+7. Подключитесь к машине с Linux по протоколу SSH:
+-------------------------------------------------------------------------------------
+Использую удалённый сервер через MobaXterm, VPS - IP:173.249.20.237, Linux Ubuntu 20.04, CPU 6-16
+Подключаюсь по логину и паролю (атомоматических всход через сохранённые пароли)
+-------------------------------------------------------------------------------------
+|
+|
+|
+|
+|
+8.(*) Используя дополнительный материал, настроить авторизацию по SSH с использованием ключей:
+-------------------------------------------------------------------------------------
+СДЕЛАНО!
+-------------------------------------------------------------------------------------
+
+
+
