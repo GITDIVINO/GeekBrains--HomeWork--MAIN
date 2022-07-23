@@ -1,0 +1,108 @@
+.background {
+  background: #FFFFFF;
+  background-image: url(/static/main/img/mount.jpg);
+  background-size: 100%;
+  background-position: top;
+  height: 100vh;
+  width: 100%;
+}
+
+.blur {
+  background: rgba(1, 1, 1, 0.6);
+  backdrop-filter: blur(3px);
+  height: 100vh;
+  width: 100%;
+  position: absolute;
+}
+
+.text {
+  padding-left: 110px;
+  margin-top: 330px;
+  width: 100%;
+  font-family: "century gothic";
+  color: #FFFFFF;
+  opacity: 0.7;
+}
+
+.main_idea {
+  padding-left: 55px;
+  margin-top: 380px;
+  color: #FFFFFF;
+  font-family: "century gothic";
+  text-align: center;
+  opacity: 0.7;
+  position: absolute;
+}
+
+/* FORM FOR REGISTRATION */
+.form {
+    width: 35%;
+    margin-left: 880px;
+    margin-top: 105px;
+    position: absolute;
+}
+
+.container_signup {
+  height: 9vh;
+}
+
+.sign_up {
+  margin-left: 25px;
+  font-family: "century gothic";
+  color: #606060;
+}
+
+/* Add padding to containers */
+.container {
+    width: 98%;
+    padding: 20px;
+}
+
+/* Full-width input fields */
+input[type=text], [type=email], [type=number], input[type=password] {
+  width: 100%;
+  height: 5vh;
+  padding: 15px;
+  margin: 5px 0 20px 0;
+  display: inline-block;
+  border: 1px solid #606060;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=email]:focus, input[type=number]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  float: right;
+  background-color: #3385ff;
+  color: white;
+  padding: 10px;
+  border: 1px solid #3385ff;
+  border-radius: 7px;
+  cursor: pointer;
+  width: 36%;
+  opacity: 0.5;
+}
+
+.registerbtn:hover {
+  opacity: 0.8;
+}
+
+.terms {
+  float: left;
+  color: #606060;
+  transform: scale(0.9);
+}
+
+/* Set a grey background color and center the text of the "sign in" section */
+.sign_in {
+  float: left;
+  color: #606060;
+  padding: 0px 120px;
+}
+
+
+

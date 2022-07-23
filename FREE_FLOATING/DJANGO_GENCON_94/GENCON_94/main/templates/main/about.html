@@ -1,0 +1,46 @@
+{% load static %}
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title> Digit Shipping: CleanFixing </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'main/css/about.css' %}">
+</head>
+
+<body>
+    <div class="background">
+        <div class="blur">
+            <h1 class="text"><b>CLEAN FIXING</b> Registration Form</h1>
+        </div>
+        <div class="main_idea">
+            <p>CleanFix is the next generation of contract editing tools. It gives the users the choice between <br/> editing directly within Word or in a more simple way in a web browser.</p>
+        </div>
+
+        <button type="submit" class="registerbtn">Sign up</button>
+
+        <div class="form">
+            <div class="container_signup">
+                <h1 class="sign_up">Sign up now</h1>
+                <p class="sign_up">Please fill in this form to create an account</p>
+            </div>
+            <div class="container">
+                <input type="text" placeholder="Full Name" name="name" required>
+                <input type="email" placeholder="Email" name="email" required>
+                <input type="number" placeholder="Contact Number" name="number" required>
+                <input type="password" placeholder="Password" name="psw" required>
+                <input type="text" placeholder="Company`s Name" name="comp" required>
+                <button type="submit" class="registerbtn">Sign up</button>
+                <p class="terms">By creating an account you agree to <br/> our <a href="#">Terms & Conditions</a> and <a href="#">Privacy Policy</a></p>
+                <p class="sign_in">Already have an account? <a href="#">Sign in</a></p>
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
