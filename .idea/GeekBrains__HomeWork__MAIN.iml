@@ -6,6 +6,9 @@
       <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/FREIGHT_BOT" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/FREIGHT_BOT/handlers" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/FREIGHT_BOT/keyboards" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/DJANGO_GENCON_94" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/DJANGO_GENCON_94/GENCON_94" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FREE_FLOATING/DJANGO_GENCON_94/GENCON_94/GENCON_94" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
