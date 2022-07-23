@@ -1,0 +1,2 @@
+15.07.2022
+1. Vessel intake, need to add big vessels (more than one hold) and types with capacity in cbft

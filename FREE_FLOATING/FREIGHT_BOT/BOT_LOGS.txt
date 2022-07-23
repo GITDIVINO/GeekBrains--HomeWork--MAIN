@@ -305,3 +305,9 @@
 2022-07-10 15:43:51.085487 -- Human (USER ID: 692820350) received [2022-07-07] USD - EUR: 1.0180 -->
 2022-07-10 15:43:58.050044 -- Human (USER ID: 692820350) is requesting "EUR-USD rate" -->
 2022-07-10 15:44:03.935537 -- Human (USER ID: 692820350) received [2022-07-08] USD - EUR: 1.0163 -->
+
+2022-07-15 11:25:16.149880 -- |------HELLO, ALDIVINO! FREIGHT BOT IS ONLINE------|
+2022-07-15 11:27:33.874358 -- Human (USER ID: 692820350) is requesting "vessels_lst" -->
+2022-07-15 11:27:57.774739 -- Human (USER ID: 692820350) is requesting to count intake -->
+2022-07-15 11:28:07.639950 -- Human (USER ID: 692820350) said the vessel`s name is Ostborg -->
+2022-07-15 11:28:08.755585 -- Human (USER ID: 692820350) received 'Vessel`s intake is 3534 mts' -->
